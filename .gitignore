@@ -1,0 +1,26 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+*.iml
+*.ipr
+*.iws
+.idea/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.flutter-plugins-symlink
+*.metadata
+android/.gradle
+android/app/key.properties
+*.jks
+pubspec.lock
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.swp
+.DS_Store
