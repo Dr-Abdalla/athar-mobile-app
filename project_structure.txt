@@ -1,0 +1,15 @@
+athar-mobile-app/
+│
+├── android/
+├── ios/
+├── lib/
+│   ├── main.dart
+├── assets/
+│   ├── images/
+│   └── fonts/
+│       ├── Cairo-Regular.ttf  (يُفضل إضافته من https://fonts.google.com/specimen/Cairo)
+│       └── Amiri-Regular.ttf (يُفضل إضافته من https://fonts.google.com/specimen/Amiri)
+├── pubspec.yaml
+├── README.md
+├── .gitignore
+└── ...
